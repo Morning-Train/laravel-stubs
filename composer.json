@@ -1,0 +1,52 @@
+{
+    "name": "morningtrain/laravel-stubs",
+    "description": "Opinionated Laravel stubs",
+    "keywords": [
+        "morningtrain",
+        "laravel-stubs"
+    ],
+    "homepage": "https://github.com/morningtrain/laravel-stubs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Jønsson",
+            "email": "sj@morningtrain.dk"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^8.71|^9.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.4",
+        "mockery/mockery": "^1.4",
+        "orchestra/testbench": "^6.24|^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Morningtrain\\Stubs\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Morningtrain\\Stubs\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "format": "vendor/bin/php-cs-fixer fix",
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Morningtrain\\Stubs\\StubsServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
