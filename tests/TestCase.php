@@ -2,8 +2,8 @@
 
 namespace Morningtrain\Stubs\Tests;
 
-use Orchestra\Testbench\TestCase as Orchestra;
 use Morningtrain\Stubs\StubsServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 abstract class TestCase extends Orchestra
 {
