@@ -1,3 +1,6 @@
+![laravel-stubs](https://user-images.githubusercontent.com/11147193/171592427-7b5dc778-72c7-4e2e-9418-03aba194e80d.png)
+
+
 # Opinionated Laravel stubs
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/morningtrain/laravel-stubs.svg?style=flat-square)](https://packagist.org/packages/morningtrain/laravel-stubs)
