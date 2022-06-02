@@ -46,7 +46,7 @@ composer test
 
 ## Credits
 
-- [Freek Van der Herten](https://github.com/freekmurze)
+- [SimonJnsson](https://github.com/SimonJnsson)
 - [All Contributors](../../contributors)
 
 ## License
