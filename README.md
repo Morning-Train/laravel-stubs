@@ -4,7 +4,7 @@
 # Opinionated Laravel stubs
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/morningtrain/laravel-stubs.svg?style=flat-square)](https://packagist.org/packages/morningtrain/laravel-stubs)
-![GitHub Tests Action Status](https://github.com/Morning-Train/laravel-stubs/workflows/Tests/badge.svg)
+![GitHub Tests Action Status](https://github.com/Morning-Train/laravel-stubs/workflows/run-tests/badge.svg)
 [![Total Downloads](https://img.shields.io/packagist/dt/morningtrain/laravel-stubs.svg?style=flat-square)](https://packagist.org/packages/morningtrain/laravel-stubs)
 
 This repo contains opinionated versions of the Laravel stubs. The most notable changes are:
