@@ -2,6 +2,18 @@
 
 All notable changes to `laravel-stubs` will be documented in this file
 
+## v1.1.0 - 2023-02-16
+
+### What's Changed
+
+- Add Laravel 10 support and new Pest stubs by @peterbrinck in https://github.com/Morning-Train/laravel-stubs/pull/1
+
+### New Contributors
+
+- @peterbrinck made their first contribution in https://github.com/Morning-Train/laravel-stubs/pull/1
+
+**Full Changelog**: https://github.com/Morning-Train/laravel-stubs/compare/v1.0.2...v1.1.0
+
 ## v1.0.2 - 2022-09-20
 
 ### Changelog
