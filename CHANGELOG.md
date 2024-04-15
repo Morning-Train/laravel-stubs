@@ -2,6 +2,18 @@
 
 All notable changes to `laravel-stubs` will be documented in this file
 
+## v1.2.0 - 2024-04-15
+
+### What's Changed
+
+* Feature/laravel 11 by @SimonJnsson in https://github.com/Morning-Train/laravel-stubs/pull/2
+
+### New Contributors
+
+* @SimonJnsson made their first contribution in https://github.com/Morning-Train/laravel-stubs/pull/2
+
+**Full Changelog**: https://github.com/Morning-Train/laravel-stubs/compare/v1.1.0...v1.2.0
+
 ## v1.1.0 - 2023-02-16
 
 ### What's Changed
