@@ -2,11 +2,17 @@
 
 namespace {{ namespace }};
 
-use Illuminate\Contracts\Validation\Rule;
+use Closure;
+use Illuminate\Contracts\Validation\ValidationRule;
 
-class {{ class }} implements Rule
+class {{ class }} implements ValidationRule
 {
-    public function passes($attribute, $value): bool
+    /**
+     * Run the validation rule.
+     *
+     * @param  \Closure(string): \Illuminate\Translation\PotentiallyTranslatedString  $fail
+     */
+    public function validate(string $attribute, mixed $value, Closure $fail): void
     {
         //
     }
